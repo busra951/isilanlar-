@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 # Bot tokenınızı buraya girin
-BOT_TOKEN = "7052188046:AAHU1L3HJiNxjM_8MA2_CkU6hLzfgHCRanA"  # Lütfen burada yeni token'ınızı kullanın
+BOT_TOKEN = "7052188046:AAEjFUXOwivxgifO6hgNBEebQs1VGIVOgEQ"  # Lütfen burada yeni token'ınızı kullanın
 
 # Admin grup ID'si (admin komutlarını kullanabilmek için)
 ADMIN_GROUP_ID = -1002095036242  # Admin grubunuzun chat ID'si
